@@ -1,5 +1,4 @@
 # Task-2-Data-Visualization-and-Storytelling
-# Task 2: Data Visualization and Storytelling
 
 ## Objective
 Create an interactive sales dashboard using Power BI to analyze the Superstore dataset and present meaningful business insights.
